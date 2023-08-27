@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luadll530", "..\luadll530\l
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lualib530", "..\lualib530\lualib530.vcxproj", "{18DF0A94-1F74-4769-BE43-A8D037534A97}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "luaL_mylib", "..\luaL_mylib\luaL_mylib.vcxproj", "{868EFC09-D895-45A6-90FB-A47EB965EB9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{18DF0A94-1F74-4769-BE43-A8D037534A97}.Release|x64.Build.0 = Release|x64
 		{18DF0A94-1F74-4769-BE43-A8D037534A97}.Release|x86.ActiveCfg = Release|Win32
 		{18DF0A94-1F74-4769-BE43-A8D037534A97}.Release|x86.Build.0 = Release|Win32
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Debug|x64.ActiveCfg = Debug|x64
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Debug|x64.Build.0 = Debug|x64
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Debug|x86.ActiveCfg = Debug|Win32
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Debug|x86.Build.0 = Debug|Win32
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Release|x64.ActiveCfg = Release|x64
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Release|x64.Build.0 = Release|x64
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Release|x86.ActiveCfg = Release|Win32
+		{868EFC09-D895-45A6-90FB-A47EB965EB9B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
