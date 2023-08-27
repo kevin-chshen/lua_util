@@ -1,0 +1,2 @@
+E:\cpp_project\lua_util\lib\mylib.pdb
+E:\cpp_project\lua_util\luaL_mylib\x64\Debug\mylib.pdb

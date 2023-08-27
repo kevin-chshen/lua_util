@@ -62,6 +62,7 @@
     <ClInclude Include="..\lua\lundump.h" />
     <ClInclude Include="..\lua\lvm.h" />
     <ClInclude Include="..\lua\lzio.h" />
+    <ClInclude Include="..\lua_mylib\my_lib.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\lua\Makefile" />
