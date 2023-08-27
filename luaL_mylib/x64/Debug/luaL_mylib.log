@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(luaL_mylib.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
-  mylib.h
-E:\cpp_project\lua_util\luaL_mylib\mylib.h(6,14): warning C4244: “初始化”: 从“lua_Integer”转换到“int”，可能丢失数据
-E:\cpp_project\lua_util\luaL_mylib\mylib.h(7,14): warning C4244: “初始化”: 从“lua_Integer”转换到“int”，可能丢失数据
-  luaL_mylib.vcxproj -> E:\cpp_project\lua_util\lib\mylib.lib
